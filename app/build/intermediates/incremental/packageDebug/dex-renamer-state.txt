@@ -1,0 +1,7 @@
+#Sun Feb 26 11:44:33 IST 2017
+base.0=/home/projectmasp/Dropbox/AndroidStudioProjects/ProjectXYZ UDP/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_210835c02f1419f17144c3975e3e3a9ed0b0c9e8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/projectmasp/Dropbox/AndroidStudioProjects/ProjectXYZ UDP/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_428eacc4d563e76d7d698c85a93b5431f549737a/classes.dex
+base.1=/home/projectmasp/Dropbox/AndroidStudioProjects/ProjectXYZ UDP/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_428eacc4d563e76d7d698c85a93b5431f549737a
+file.0=/home/projectmasp/Dropbox/AndroidStudioProjects/ProjectXYZ UDP/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_210835c02f1419f17144c3975e3e3a9ed0b0c9e8/classes.dex

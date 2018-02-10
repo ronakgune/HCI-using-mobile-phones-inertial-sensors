@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "D:\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "D:\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "D:\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "D:\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "D:\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

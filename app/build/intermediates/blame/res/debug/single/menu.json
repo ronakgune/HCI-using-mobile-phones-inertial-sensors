@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\ProjectXYZ UDP\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\ProjectXYZ UDP\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_share.png",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_preferences.png",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_preferences.png"
+    },
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_status.png",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_status.png"
+    },
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_servers.png",
+        "source": "D:\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_servers.png"
+    },
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_preferences.png",
+        "source": "D:\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_preferences.png"
+    },
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_share.png",
+        "source": "D:\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_remote.png",
+        "source": "D:\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_remote.png"
+    },
+    {
+        "merged": "D:\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_status.png",
+        "source": "D:\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_status.png"
+    },
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_remote.png",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_remote.png"
+    },
+    {
+        "merged": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_servers.png",
+        "source": "D:\\home\\projectmasp\\Dropbox\\AndroidStudioProjects\\ProjectXYZ UDP\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_servers.png"
+    }
+]
